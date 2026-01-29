@@ -35,3 +35,15 @@ State Management: React Hooks
 Icons & Assets: Custom / SVG
 
 Build Tool: Vite / CRA 
+
+📬 Contact
+
+👤 Hassan Arshad
+
+💼 Frontend Developer
+
+🔗 LinkedIn: https://www.linkedin.com/in/hassan-arshad-6a69432b6/
+
+Portfolio: https://mirzahassan.great-site.net/
+
+⭐ If you like this project, don’t forget to star the repo!
